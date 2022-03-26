@@ -1,0 +1,46 @@
+.camera{
+    width: 300px;
+    height: 400px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    position: relative;
+}
+
+.camera img{
+    width: 200px;
+    height: 200px;
+}
+.camera-info{
+    margin: 0 14px;
+}
+.camera-info p{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.camera-info h3{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    margin-top: 7px;
+}
+.btn-cart{
+    width: 100%;
+    background: #6a8c96;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-cart .btn-text{
+    margin-right: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.btn-cart:hover{
+    background-color: rgb(157, 193, 194);
+}

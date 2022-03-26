@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "name": "Canon EOS M50 Mark II Black Mirrorless Camera",
+        "image": "img/canon_eos_m50_mark_ii.webp",
+        "price": "71000"
+    },
+    {
+        "id": "1",
+        "name": "Sony A7 III Alpha Mirrorless Camera",
+        "image": "img/Sony_A7_III_Alpha_Mirrorless_Camera.webp",
+        "price": "156000"
+    },
+    {
+        "id": "2",
+        "name": "Canon EOS RP Mirrorless Camera",
+        "image": "img/canon-eos-rp-camera.webp",
+        "price": "240000"
+    },
+    {
+        "id": "3",
+        "name": "Canon EOS 4000D Digital SLR Camera",
+        "image": "img/canon-eos-4000d-digital-slr-camera.webp",
+        "price": "30000"
+       
+    },
+    {
+        "id": "4",
+        "name": "Nikon D3500 Digital SLR Camera",
+        "image": "img/nikon-d3500-digital-slr-camera-with-af-s-18-55mm-11554018869.webp",
+        "price": "46000"
+    },
+    {
+        "id": "5",
+        "name": "Canon EOS 77D Digital SLR Camera",
+        "image": "img/canon-eos-77d-digital-slr-camera-11570536221.webp",
+        "price": "60000"
+    },
+    {
+        "id": "6",
+        "name": "Canon EOS 80D Digital SLR Camera",
+        "image": "img/canon-eos-80d-digital-slr-camera-body-11548143463.webp",
+        "price": "80000"
+    },
+    {
+        "id": "7",
+        "name": "Canon 5D Mark IV Digital SLR Camera",
+        "image": "img/canon-5d-mark-iv-digital-slr-camera-11548160848.webp",
+        "price": "210000"
+       
+    },
+    {
+        "id": "8",
+        "name": "Sony Alpha A6000 Digital SLR Camera",
+        "image": "img/sony-alpha-a6000-digital-slr-camera-body-with-11551246939.webp",
+        "price": "1499"
+    }
+]
