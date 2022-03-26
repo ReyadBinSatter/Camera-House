@@ -1,0 +1,33 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+    height: 100%;
+    background-color: #fafafa;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-choose{
+    width: 30%;
+    background: #6a8c96;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-choose .btn-text{
+    margin-right: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.btn-choose:hover{
+    background-color: rgb(157, 193, 194);
+}
