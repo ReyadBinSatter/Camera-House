@@ -43,9 +43,11 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                <Cart cart={cart}
+                <Cart 
+                cart={cart}
                 randomSelect={randomSelect}
-                chooseAgain={chooseAgain}></Cart>
+                chooseAgain={chooseAgain}
+                ></Cart>
             </div>
         </div>
     );

@@ -2,12 +2,7 @@ import React from 'react';
 import "./Cart.css"
 
 const Cart = (props) => {
-    const {randomSelect,chooseAgain, cart } = props;
-
-    console.log(cart);
-    // const Name = () => cart(name[Math.floor(Math.random()*name.length)])}
-    //const newCart = [];
-
+    const {randomSelect, chooseAgain, cart } = props;
 
     return (
         

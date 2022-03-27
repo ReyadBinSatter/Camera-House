@@ -12,6 +12,11 @@
   pointer-events: none;
 }
 
+.QnA{
+  margin: 10%;
+  text-align: left;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
